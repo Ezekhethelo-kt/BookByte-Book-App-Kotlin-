@@ -1,5 +1,5 @@
 **📖 README - BookByte**  
-
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9.x-blueviolet?logo=kotlin)
  **📌 What is BookByte?**  
 **BookByte** is an Android application designed for **book lovers** to read books within the app and **download them for offline access**. It offers a diverse selection of genres, including **fiction, horror, romance, and more**, while also providing personalized **book recommendations** based on the most-read titles.  
 
