@@ -19,7 +19,7 @@ Additionally, BookByte includes an **admin panel** where developers or managers 
 **1. Prerequisites**  
 Ensure you have the following installed:  
 - **Android Studio** (latest version)  
-- **Java/Kotlin** (depending on the project’s language)  
+- **Java/Kotlin** 
 - **Firebase SDK** (configured in the project)  
 
 **2. Clone the Repository**  
